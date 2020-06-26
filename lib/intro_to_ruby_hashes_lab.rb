@@ -17,6 +17,6 @@ end
 
 def id_hash_generator(number)
   hash = {
-    :key => number.to_i
+    :id => number.to_i
   }
 end
